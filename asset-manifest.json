@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IcyEazy-recipe-app/static/css/main.efb0c068.css",
+    "main.js": "/IcyEazy-recipe-app/static/js/main.35161286.js",
+    "index.html": "/IcyEazy-recipe-app/index.html",
+    "main.efb0c068.css.map": "/IcyEazy-recipe-app/static/css/main.efb0c068.css.map",
+    "main.35161286.js.map": "/IcyEazy-recipe-app/static/js/main.35161286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efb0c068.css",
+    "static/js/main.35161286.js"
+  ]
+}
